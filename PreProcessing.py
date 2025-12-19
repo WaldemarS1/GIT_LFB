@@ -14,7 +14,7 @@ from datetime import datetime
 pd.set_option('display.max_columns',None)
 
 # -----------------------------------------
-# Initialize variables
+# Initialize variables t
 # -----------------------------------------
 
 # Paths and files
